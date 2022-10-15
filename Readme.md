@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomáš Borkovec</h1>
-<h3 align="center">A passionate frontend and backend developer from Czechia</h3>
+<h3 align="center">A passionate frontend and backend developer from Czechia 🇨🇿</h3>
 
 <p align="center" style="text-align: center"> <a href="https://twitter.com/tomasborki" target="blank"><img src="https://img.shields.io/twitter/follow/tomasborki?logo=twitter&style=for-the-badge" alt="tomasborki" /></a> </p>
 
