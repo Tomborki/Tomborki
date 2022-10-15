@@ -5,11 +5,12 @@
 
 <p align="center" style="text-align: center">📫 How to reach me <b>tomasborki@gmail.com</b></p>
 
-<h3 style="text-align: center" align="center">Connect with me:</h3>
-<p align="center" style="text-align: center">
-<a style="text-align: center" href="https://twitter.com/tomasborki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomasborki" height="30" width="40" /></a>
-<a style="text-align: center" href="https://fb.com/tomas.borki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomas.borki" height="30" width="40" /></a>
-<a style="text-align: center" href="https://instagram.com/tomas_borki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomas_borki" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/tomasborki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomasborki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tomáš-borkovec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomáš-borkovec" height="30" width="40" /></a>
+<a href="https://fb.com/tomas.borki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomas.borki" height="30" width="40" /></a>
+<a href="https://instagram.com/tomas_borki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomas_borki" height="30" width="40" /></a>
 </p>
 
 <h3 style="text-align: center" align="center">Languages and Tools:</h3>
